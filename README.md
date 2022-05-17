@@ -10,6 +10,10 @@ All The Social is a brand new social network that uses a MongoDB database. The r
 
 When working on this project I learned even more about writing routes, as they relate to controllers. This was definitely not my strong suit before this project, but now I feel relatively comfortable.
 
+## Demo
+
+- [Demo Video](https://drive.google.com/file/d/1eUlkM5frHzJCKw4fjaCzEgNOhW6Yn_bm/view)
+
 ## Installation 🚀
 
 - Clone the repository
