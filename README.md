@@ -12,8 +12,6 @@ When working on this project I learned even more about writing routes, as they r
 
 ## Demo
 
-- [Demo Video](https://drive.google.com/file/d/1eUlkM5frHzJCKw4fjaCzEgNOhW6Yn_bm/view)
-
 ## Installation 🚀
 
 - Clone the repository
